@@ -2,7 +2,7 @@
 
 Assignment for Programming for Data Analysis GMIT.
 
-An investigation into using numpy.random for simulating a real world phenomenom.
+An investigation into using numpy.random for simulating a real world phenomenom. The simulation will investiagte achieved salary in relation to academic qualification levels.
 
 Contents of Repository Jupyter Notebook, a gitignore file, and a licence.
 
