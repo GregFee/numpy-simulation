@@ -1,8 +1,8 @@
 # numpy-simulation
 
-Assignment for Programming for Data Analysis GMIT
+Assignment for Programming for Data Analysis GMIT.
 
-An investigation into using numpy.random for simulating a real world phenomenom
+An investigation into using numpy.random for simulating a real world phenomenom.
 
 Contents of Repository Jupyter Notebook, a gitignore file, and a licence.
 
